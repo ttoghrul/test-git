@@ -1,5 +1,5 @@
 public class MainTest {
-    one;
+    first;
     two;
     three;
 }
